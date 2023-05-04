@@ -1,0 +1,10 @@
+FullName/Age/Gender/nationalID/EmailAddress/Password/Acc_type 
+Hamada/20/Male/2568/awa@gmail.com/123/AD
+Dazai/18/Male/4569-85/@num/0000/CU
+Khaled/37/Male/259-658/abc@gmail.com/123456/CU
+Omar/36/female/26111165/omar@ass.com/0000/AD
+Pedro/21/male/66561/Pedro@gmail.com/000/CU/
+Usman/18/male/12345678/Usman@gmail.com/Usman/CU
+Mahmoud/18/male/12345678/Mahmoud@gmail.com/123/CU
+Mohamed/20/male/123456/khairy@gmail.com/123/CU/
+Ahmed/24/male/456789/Mohamed@gmail.com/000/CU

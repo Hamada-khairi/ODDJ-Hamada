@@ -1,0 +1,11 @@
+ID , Vehicle Type , Vehicle No , Brand , Model , Built , Energy Type , Power ,Price
+
+C0001/Sedan/1/HONDA/CIVIC/2022/Hybrid /1800 CC /220 RM
+C0002/Suv/2/BMW/M5/2022/Hybrid /4400 CC /899 RM
+C0003/Sports /3/BUGHATTTI/m16/2022/Mechanical /3200 CC /999 RM
+C0004/Mini Van/4/KIA/Carnaval/2019/Mechanical /1800 CC /699 RM
+C0005/Sports /5/PORCHE/2023/2022/Mechanical /4800 CC /1499 RM
+C0006/Bike/6/HONDA/Kawasaki/2022/Mechanical /1000 CC /399 RM
+C0007/Roadster/7/TOYOTA/4x4/2016/Mechanical /3800 CC /1299 RM
+C0008/Suv/8/HONDA/H-rv/2022/Mechanical /4400 CC /150 RM
+C0009/Sedan/9/TOYOTA/camry/2013/Mechanical /2000 CC /100 RM
