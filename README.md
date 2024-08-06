@@ -78,7 +78,7 @@ Welcome to the Cyberpunk Car Rental System, a futuristic Java-based application 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/cyberpunk-car-rental.git
+   git clone https://github.com/Hamada-khairi/ODDJ-Hamada.git
    ```
 
 2. Open NetBeans IDE
@@ -168,7 +168,7 @@ We welcome contributions to the Cyberpunk Car Rental System! Please follow these
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
