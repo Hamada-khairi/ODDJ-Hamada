@@ -168,10 +168,9 @@ We welcome contributions to the Cyberpunk Car Rental System! Please follow these
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ---
 
 Developed with ❤️ by [MOHAMED KHAIRY/ABDELRAHMAN MOURAD]
 
-For any queries, please contact: cyberpunk-support@example.com
